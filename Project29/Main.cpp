@@ -24,7 +24,7 @@ public:
 };
 Student::Student() {
     this->name = nullptr;
-    this->age = 0;
+    this->age = 0; 
     this->email = nullptr;
     cout << "Constructor by default\n";
 }
